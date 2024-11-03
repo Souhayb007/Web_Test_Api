@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\models\\marketapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:models\\marketapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\service\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:service\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\service\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:service\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\migrations\\marketapimodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:migrations\\marketapimodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\migrations\\20240424163950_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:migrations\\20240424163950_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\web_test_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:web_test_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|c:\\users\\pc\\desktop\\web_test_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4ED1859-AED2-480C-A71B-AFCC6E570A0E}|Web_Test_Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarketApi.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Models\\MarketApi.cs",
+              "RelativeDocumentMoniker": "Models\\MarketApi.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Models\\MarketApi.cs",
+              "RelativeToolTip": "Models\\MarketApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:32:54.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:32:55.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:32:55.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Service\\Storage.cs",
+              "RelativeDocumentMoniker": "Service\\Storage.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Service\\Storage.cs",
+              "RelativeToolTip": "Service\\Storage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:32:55.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:32:55.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240424163950_CreateDB.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Migrations\\20240424163950_CreateDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240424163950_CreateDB.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Migrations\\20240424163950_CreateDB.cs",
+              "RelativeToolTip": "Migrations\\20240424163950_CreateDB.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:32:55.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:32:55.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Service\\IStorage.cs",
+              "RelativeDocumentMoniker": "Service\\IStorage.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Service\\IStorage.cs",
+              "RelativeToolTip": "Service\\IStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:32:55.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MarketApiModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Migrations\\MarketApiModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MarketApiModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Migrations\\MarketApiModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MarketApiModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:01:07.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:32:55.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T14:32:55.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web_Test_Api.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Web_Test_Api.csproj",
+              "RelativeDocumentMoniker": "Web_Test_Api.csproj",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Web_Test_Api.csproj",
+              "RelativeToolTip": "Web_Test_Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T14:32:55.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Web_Test_Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T14:32:55.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

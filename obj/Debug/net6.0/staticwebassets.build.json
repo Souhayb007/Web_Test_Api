@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KJm/5UwDSQmDKIxMMiwrVoLG87EjyADQ5R0tyicNIkA=",
+  "Source": "Web_Test_Api",
+  "BasePath": "_content/Web_Test_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
